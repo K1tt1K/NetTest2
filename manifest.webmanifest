@@ -1,0 +1,12 @@
+{
+  "name": "Netwable 1.3",
+  "short_name": "Netwable 1.3",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
